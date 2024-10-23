@@ -23,6 +23,15 @@ cppyy-backend==1.15.2
 cppyy-cling==6.30.0
 CPyCppyy==1.12.16
 cryptography==2.8
+dbus-python==1.2.16
+debugpy==1.8.6
+decorator==4.4.2
+defer==1.0.6
+defusedxml==0.7.1
+distlib==0.3.0
+distro==1.4.0
+distro-info==0.23+ubuntu1.1
+docutils==0.16
 exceptiongroup==1.2.2
 executing==2.1.0
 Faker==30.1.0
